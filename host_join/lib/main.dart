@@ -36,7 +36,8 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: Container(
         height: double.infinity,
-        color: Colors.blueAccent[25],
+        color: Colors.blueAccent[20],
+
       ),
       floatingActionButton: FabCircularMenu(
           alignment: Alignment.bottomRight,
